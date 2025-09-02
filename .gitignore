@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# SQLite database
+*.sqlite
+
+# Build/Dist folders
+build/
+dist/
